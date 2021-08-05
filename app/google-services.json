@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "705464620457",
+    "firebase_url": "https://bluepocketfirebase-f8339.firebaseio.com",
+    "project_id": "bluepocketfirebase-f8339",
+    "storage_bucket": "bluepocketfirebase-f8339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705464620457:android:b7cc545efce19a246420b8",
+        "android_client_info": {
+          "package_name": "com.example.bluepocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705464620457-fluv9mociqeve6n7hs2krf4s206qv9id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgxZJkyICbA_L_tCxAFOpGl5HGMAZduhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705464620457-fluv9mociqeve6n7hs2krf4s206qv9id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
